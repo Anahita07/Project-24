@@ -22,7 +22,7 @@ class Paper{
         fill("turquoise");        
         ellipseMode(RADIUS);
         ellipse(0,0,this.radius,this.radius);
-        pop;
+        pop();
        
     }
 
